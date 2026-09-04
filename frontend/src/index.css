@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root {
+  --cor-primaria: #316983;
+  --cor-sucesso: #318344;
+  --cor-erro: #833131;
+  --cor-fundo: #f1f5f9;
+  --cor-texto: #333333;
+  --fonte-principal: 'Roboto', sans-serif;
+}
+
+body {
+  font-family: var(--fonte-principal);
+  background-color: var(--cor-fundo);
+  color: var(--cor-texto);
+  margin: 0;
+  padding: 0;
+}
